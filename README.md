@@ -23,7 +23,7 @@ GeoFence Unlocker is a simple web application that uses the Google Maps JavaScri
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sebo21cc21/Zagrywki.git
+   git clone https://github.com/sebo21cc21/GeoFenceGame.git
    ```
 
 2. Open `index.html` in a browser to run the application.
